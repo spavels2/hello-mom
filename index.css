@@ -1,0 +1,23 @@
+html{
+    background-color: aqua;
+}
+h1 {
+    font-size: 40px; color: beige;
+    ;
+}
+p {
+    font-size: 20px;
+}
+
+a {
+    font-size: 20px; color: green; 
+}
+
+button {
+    font-size: 20px;
+    color: blueviolet;
+}
+
+.output {
+    color: red;
+}
